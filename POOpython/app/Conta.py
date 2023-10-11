@@ -3,7 +3,6 @@
 
 class Conta:
     def __init__(self,titular, numero,saldo):
-        self.saldo = saldo
-        self.titular = titular
-        self.numero =numero
-        
+        self._saldo = saldo
+        self._titular = titular
+        self._numero =numero

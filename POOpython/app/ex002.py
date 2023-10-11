@@ -14,6 +14,7 @@ def data():
     name = input('Digite seu nome: ')
     conta = int(input('Digite o número de sua conta abaixo, sem letras e sem epaços: \n'))
     foN = int(input('Digite o número de telefone sem espaçamento: \n'))
+
     return name, conta, foN
 
 
@@ -21,6 +22,6 @@ def data():
 name, conta, foN = data()
 # Quero que a classe Cliente receba como primeiro atributo o conteúdo da variável name, e o segundo, o conteúdo da variável foN
 cliente = Cliente(name,foN)
-data_cont = Conta(name, conta, '150')
+data_cont = Conta(name, conta, 150)
 
-print(f'Olá, {cliente.nome}. Seu número de telefone é {cliente.telefone}. \n Número de conta: {data_cont.numero}. \n Saldo: R$ {data_cont.saldo}.')
+print(f'Olá, {cliente._nome}. Seu número de telefone é {cliente._telefone}. \n Número de conta: {data_cont._numero}. \n Saldo: R$ {data_cont._saldo}.')
