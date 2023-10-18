@@ -50,11 +50,11 @@ class ControleRemoto:
     
     # devemos criar métodos para aumentar/diminuir volume, trocar e sintonizar um novo canal, que adiciona um novo canal à lista de canais (somente se esse canal não estiver nessa lista).
 
-    def aumentarvol (self):
-        self.tv.aumentavol(90)
+    def aumentarvol (self, valor):
+        self.tv.aumentarvol(valor)
     
-    def diminuirvol(self):
-        self.tv.diminuirvol(90)
+    def diminuirvol(self, valor):
+        self.tv.diminuirvol(valor)
   
     def trocadecanal(self,canal):
         self.tv.trocadecanal(canal)
