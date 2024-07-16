@@ -1,6 +1,6 @@
 # Nesta aula, iremos aprender sobre a manipulação de arquivos de texto (.txt)
 
-# O primeiro comândo é a função open(), que a sintaxe: arquivo = open ('nopme do arquivo.txt', 'w'). 'write' == escrever no arquivo.
+# O primeiro comando é a função open(), que a sintaxe: arquivo = open ('nopme do arquivo.txt', 'w'). 'write' == escrever no arquivo.
 
 #arquivo = open('arquivo.txt', 'w', encoding='utf-8')
 
