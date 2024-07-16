@@ -26,6 +26,13 @@ print(ex.strip()) # sem espaços
 
 '''
 Com os dois exemplos acima, podemos perceber a diferença com e sem espaços pelo comando(método/função) stripe()
+
 '''
+# Replace String: O método replace() troca uma string por outra
+
+print(ex.replace('!','?')) # Espera-se: Isto é um exemplo? [ok]
 
 
+#split() separa a string em substrings
+
+print(h.split(",")) # espera-se (de h): ['Hello', 'World!'] [ok]
