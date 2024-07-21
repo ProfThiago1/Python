@@ -158,3 +158,39 @@ print(n3) --> [4,16,36,64,100]
 
 
 '''
+
+
+# Sort (embaralhar?) a lista
+
+'''
+Quando a lista é composta de um conteúdo alfanumérico, o método sort() irá embaralhar/organizar a lista de forma ascendente, segundo o alfabeto:
+
+alfa = ['manga', 'banana', 'abacaxi']
+
+alfa.sort()
+print(alfa) --- > ['abacaxi','banana', 'manga']
+
+
+
+Se, por exemplo, quiseremos em ordem descendente do alfabeto, utilizamos o reverse como argumento:
+
+alfa.sort(reverse= True)
+
+print(alfa) ---> ['manga', 'banana', 'abacaxi']
+
+
+
+Podemos ainda, personaliar nosso próprio argumento dentro da função sort(), usando key = function:
+
+queremos organizar a lista de acordo com a distância em relação ao número 10:
+
+def modulo(n):
+    return abs(n-10)
+
+n4 = [3,8,9,20]
+
+n4.sort(key=modulo)
+print(n4) ---> [9,8,3,20]
+
+
+'''
