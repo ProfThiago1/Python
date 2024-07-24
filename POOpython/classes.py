@@ -1,5 +1,9 @@
 '''
 Aqui, não discutiremos conceitos de classes e objetos de maneira geral, pois é de conhecimento geral. Vou focar aqui em revisar criação de classes e afins.
+
+O parâmetro self é uma referência a instância da classe atual, e serve para acessar as variáveis que pertencem a classe.
+
+Podemos utilizar outros nomes para substituir o self mas, em geral, as boas práticas nos levam a usar o self.
 '''
 #Exemplo básico de classe com atributos simples
 class Pessoa:
@@ -9,9 +13,37 @@ class Pessoa:
     # função de representação legível de um objeto __str__()
     def __str__(self):
         return f'{self.nome}, {self.idade} anos.'
+    
+    # métodos da classe abaixo
+    def falar(self):
+        print(f'Olá! Me chamo {self.nome}, tenho {self.idade} anos.')
 
 
 p1 = Pessoa('Thiago', 25)
-print(p1)
+#print(p1)
+#p1.falar()
 
+# Herança
+'''
+Aqui, faremos alguns exemplos de como classes filhas herdam métodos e propriedades de classes pai.
+
+A classe Estudante herdará todos os métodos e atributos da classe Pessoa.
+'''
+ 
+class Estudante(Pessoa): 
+    pass
+''' Se não quisermos adicionar mais métodos a classe Estudande, basta utilizarmos a palavra chave pass. Assim, qualquer objeto instanciado da classe Estudante terá somente os métodos definidos na classe pai, isto é, Pessoa.
+
+É importante notar que, se utilizarmos o método construtor na classe filha, o __init__() da classe filha sobrescreve o construtor da classe pai, ou seja, a classe filha não herda os atributos que foram construidos na classe pai, execeto se utilizarmos explicitamente:
+
+class Filha(ClassePai):
+    def __init__(self, nome, idade):
+        ClassePai.__init__(self,nome,idade)
+.
+
+'''
+
+e1 = Estudante("Augustus", 2)
+print(e1) # Augustus, 2 anos.
+e1.falar() # Olá! Me chamo Augustus, tenho 2 anos.
 
