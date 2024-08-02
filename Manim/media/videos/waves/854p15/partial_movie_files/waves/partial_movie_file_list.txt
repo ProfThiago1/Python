@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/2819715140_1964012978_223132457.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_4042641242_1238588674.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_4184932540_4174327130.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_740895660_82745265.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_4268215521_1805595952.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_973854856_1647047221.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_1339088067_3238657942.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_1258821655_1679711680.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_2815724891_168162805.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/3654006240_774239770_3430020359.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/1251999912_3146833988_3211097073.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/waves/854p15/partial_movie_files/waves/405365871_2290811224_4283550171.mp4'

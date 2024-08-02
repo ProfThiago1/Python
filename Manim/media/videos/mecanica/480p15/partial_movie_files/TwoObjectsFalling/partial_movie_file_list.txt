@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/mecanica/480p15/partial_movie_files/TwoObjectsFalling/2550307886_1428154892_2623051827.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/mecanica/480p15/partial_movie_files/TwoObjectsFalling/2732211768_3207442680_2214230539.mp4'

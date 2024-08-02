@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/4117629739_2400823741_223132457.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/4232592271_1035519561_1234786002.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/4269760772_171879340_1585050390.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/758703502_899867797_1042097912.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/77172657_2119660763_2531352102.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/4139048987_1252642206_672658361.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/2883774076_405727294_2435974111.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/2403836504_3042808622_25275908.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/1577410536_2453082597_180772914.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/2776027938_3713799957_1077224665.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/fteste/480p15/partial_movie_files/FibonacciSpiral/2776027938_1165985053_955314232.mp4'

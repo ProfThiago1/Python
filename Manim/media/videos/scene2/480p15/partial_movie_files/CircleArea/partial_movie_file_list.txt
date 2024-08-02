@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/CircleArea/1185818338_1870338450_223132457.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/CircleArea/624642324_1047976616_3635967855.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/CircleArea/624642324_3317210433_2728660109.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/CircleArea/624642324_4172384713_3364225782.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/CircleArea/624642324_1704852926_917162529.mp4'

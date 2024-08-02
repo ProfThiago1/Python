@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/TransformExample/1185818338_758420453_223132457.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/TransformExample/624642324_3550665573_2956736729.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/TransformExample/624642324_3890345977_1959222149.mp4'

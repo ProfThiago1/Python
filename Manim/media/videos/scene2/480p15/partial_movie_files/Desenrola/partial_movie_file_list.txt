@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/Desenrola/1185818338_2342364397_223132457.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/Desenrola/624642324_3244138182_565800048.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/Desenrola/624642324_3565429768_902427094.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/Desenrola/624642324_983204987_3909207551.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/Desenrola/624642324_288790126_2292695377.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/Desenrola/624642324_222881252_2572539575.mp4'
+file 'file:C:/Users/Usuário/Documents/Programação/project/media/videos/scene2/480p15/partial_movie_files/Desenrola/624642324_3890345977_4056239522.mp4'
