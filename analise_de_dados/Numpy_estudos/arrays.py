@@ -34,3 +34,10 @@ arr2 = np.array(data2) # Um array (2,4): Duas dimensões, com quatro elementos, 
 a = np.arange(15)
 arr3 = np.array(a)
 #print(a)
+
+# Conversão de tipo com astype()
+
+data_s = np.array(['1','2','3','4'])
+data_s = data_s.astype(int)
+
+print(data_s)
